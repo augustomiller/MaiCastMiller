@@ -8,12 +8,12 @@ const audio = document.querySelector("audio");
 
 const data = {
     title: " Titulo Lorem ipsum dolor sit. ",
-    artist: "Ouça nosso convidado de hoje!",
+    artist: "Lorem ipsum",
     cover: "./Assets/Images/Untitled.jpg",
     file: "./Assets/Audios/VivaLaVida.mp3"
 };
 
-cover.style.background = `url(${data.cover}) no-repeat center center / cover`;
+cover.style.background = `url('${data.cover}') no-repeat center center / cover`;
 title.innerText = data.title;
 artist.innerHTML = `<i class='material-icons icon-image-preview'>hearing</i> ${data.artist}`;
 audio.src = data.file;
