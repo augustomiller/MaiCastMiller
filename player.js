@@ -6,16 +6,22 @@ window.player = {
     title: document.querySelector(".card-content h5"),
     artist: document.querySelector(".artist"),
     audio: document.querySelector("audio"),
-    data: {
-        title: " Titulo Lorem ipsum dolor sit. ",
-        artist: "Lorem ipsum",
-        cover: "./Assets/Images/Untitled.jpg",
-        file: "./Assets/Audios/VivaLaVida.mp3"
-    },
+    audioData: audios,
+    currentAudio: {},
+    currentPlaying: 0,
     start() {
-        player.cover.style.background = `url('${player.data.cover}') no-repeat center center / cover`;
-        player.title.innerText = player.data.title;
-        player.artist.innerHTML = `<i class='material-icons icon-image-preview'>hearing</i> ${player.data.artist}`;
-        player.audio.src = player.data.file;
+
+        this.currentAudio = this.audioData[this.currentPlaying];
+
+        this.cover.style.background = `url('${path(this.currentAudio.cover)}') no-repeat center center / cover`;
+        this.title.innerText = this.currentAudio.title;
+        this.artist.innerHTML = `<i class='material-icons icon-image-preview'>hearing</i> ${path(this.currentAudio.artist)}`;
+        this.audio.src = path(this.currentAudio.file);
+
+        this.audio.addEventListener("ended", () => {
+            this.currentPlaying++
+            this.audio.src = path(this.audioData[this.currentPlaying].file);
+            this.audio.play();
+        });
     }
 };
