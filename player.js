@@ -3,16 +3,16 @@
 */
 import audios from "./data.js";
 import { path } from "./utils.js";
+import elements from "./playerElements.js"
 
 export default {
-    cover: document.querySelector(".card-image"),
-    title: document.querySelector(".card-content h5"),
-    artist: document.querySelector(".artist"),
-    audio: document.querySelector("audio"),
+
     audioData: audios,
     currentAudio: {},
     currentPlaying: 0,
     start() {
+        elements.get.call(this); //Chamando a função o conteúdo dela fica disponível aqui nesse escopo.
+
         this.update();
         this.audio.onended = () => this.next();
     },
