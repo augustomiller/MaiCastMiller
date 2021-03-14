@@ -17,7 +17,7 @@ function secondsToMinutes(time) {
  * 
 */
 const path = function (file) {
-    return `files/${file}`;
+    return `${file}`;
 }
 
 export { path, secondsToMinutes };
