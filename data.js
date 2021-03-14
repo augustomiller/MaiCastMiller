@@ -1,9 +1,9 @@
 export default [
   {
-    title: "Viva La Vida",
-    artist: "Cold Play",
+    title: "Insights da primeira temporada...",
+    artist: "Ricardo Morais - Gerente Sênior da Catho",
     cover: "../Assets/Images/Untitled.jpg",
-    file: "../Assets/Audios/VivaLaVida.mp3"
+    file: "../Assets/Audios/01.mp3"
   },
   {
     title: "Paradise",
