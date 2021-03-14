@@ -1,4 +1,4 @@
-window.audios = [
+export default [
   {
     title: "Viva La Vida",
     artist: "Cold Play",
