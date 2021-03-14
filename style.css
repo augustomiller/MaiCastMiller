@@ -60,6 +60,7 @@ audio {
 
 #vol{
   color: var(--primary-color);
+  transform: translateY(2px);
 }
 
 input[type="range"]::-webkit-slider-thumb{
