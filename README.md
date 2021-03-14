@@ -1,6 +1,6 @@
-# MaiCastMiller (Audio Player)
+# MaiCastMiller </[![Linkedin: maic](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maic/)](https://www.linkedin.com/in/maic-miller-330721208/)>
 
-## Index
+## Index 
 
 - [1. Preâmbulo](#1-Preâmbulo)
 - [2. Resumo do projeto](#2-Resumo-do-projeto)
@@ -9,7 +9,14 @@
 
 Foram usados:  [Framewok Materialize](https://materializecss.com/), [HTML 5](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5), [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [GIMP](https://www.gimp.org/) para criar e editar as imagens usadas no projeto.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
+
 ![logo](https://user-images.githubusercontent.com/990877/111083825-27d0a480-84ee-11eb-86ee-a8982eb42257.png)
 
 ![MaiCastMiller](https://user-images.githubusercontent.com/990877/111083352-ec34db00-84eb-11eb-8e32-553747c65c27.png)
@@ -49,3 +56,5 @@ Gostaria de visualizar os dados do podcast, como título, tamanho do tempo da fa
 Existem  vários criadores de audio(podcast's) que têm ótimos conteúdos, mas como atingir um público-alvo? Como atingir mais ouvintes? E como a maioria desses criadores tem o custume de disponibilizar seus podcasts em uma página estática e mal estruturada, acaba perdendo ou nem sendo encontrado pelos ouvintes.
 
 Existem tantas informações na rede hoje que os usuários se perdem em meio a tantos dados expostos. MaiCastMiller vem para sanar e organizar esses conteúdos em um único lugar de forma simples e objetiva.
+
+[![Linkedin: maic](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maic/)](https://www.linkedin.com/in/maic-miller-330721208/)
