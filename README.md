@@ -10,7 +10,7 @@
 Foram usados:  [Framewok Materialize](https://materializecss.com/), [HTML 5](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5), [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [GIMP](https://www.gimp.org/) para criar e editar as imagens usadas no projeto.
 
 ---
-![logo](https://user-images.githubusercontent.com/990877/111083767-d7f1dd80-84ed-11eb-99c8-4dcd28202adb.png)
+![logo](https://user-images.githubusercontent.com/990877/111083825-27d0a480-84ee-11eb-86ee-a8982eb42257.png)
 
 ![MaiCastMiller](https://user-images.githubusercontent.com/990877/111083352-ec34db00-84eb-11eb-8e32-553747c65c27.png)
 
