@@ -25,6 +25,8 @@ Foram usados:  [Framewok Materialize](https://materializecss.com/), [HTML 5](htt
 
 MaiCastMiller é um player reprodutor de mídia gratuito disponível de forma online podendo ser utilizado em diversas plataformas, como Windows, Windows Phone, Mac, Linux, Android e iOS. O programa tem como principal atrativo uma interface básica e simples voltada para o público que curte um bom podcast. Além disso, ele é lindo ;). O software é simples e funcional para atender até mesmo as pessoas mais exigentes.
 
+![ScreencastP](https://user-images.githubusercontent.com/990877/111084149-bc87d200-84ef-11eb-8bb3-e34d468ebc62.gif)
+
 ## 2. Resumo do projeto
 
 Neste projeto, construímos uma aplicação web, onde uma um ouvinte de podcast poderá apreciar de uma forma simples e rápida os melhores podcast's do mercado.
